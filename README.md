@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Larocca</h1>
-<h3 align="center">A frontend and mobile development enthusiast</h3>
+<h3 align="center">Fullstack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriellarocca&label=Profile%20views&color=7a053a&style=flat" alt="gabriellarocca" /> </p>
 
 - 🔭 I’m currently working on **Laon Labs as Fullstack developer**
 
-- 🌱 I’m currently learning **Laravel, React Native and Next.js**
-
-- 💬 Ask me about **React and Frontend development**
+- 🌱 I’m currently learning **Laravel, React Native, React.js, Node and Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
