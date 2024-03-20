@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Laon Labs as Fullstack developer**
 
-- 🌱 I’m currently learning **Laravel, React Native, React.js, Node and Next.js**
+- 🌱 I’m currently learning **Laravel, React Native, React.js, Docker, On Rails, Node and Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
