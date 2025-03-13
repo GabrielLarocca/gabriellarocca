@@ -1,32 +1,18 @@
-<h1 align="center">Hi 👋, I'm Gabriel Larocca</h1>
-<h3 align="center">Fullstack development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriellarocca&label=Profile%20views&color=7a053a&style=flat" alt="gabriellarocca" /> </p>
-
-- 🔭 I’m currently working on **Laon Labs as Fullstack developer**
-
-- 🌱 I’m currently learning **Laravel, React Native, React.js, Docker, On Rails, Node and Next.js**
-
 <h1 align="center">
 Hi, I'm  Gabriel Larocca!
 	<a href="https://github.com/gabriellarocca" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
+
 <p align="center">
-	<a href="https://github.com/gabriellarocca">
-		<img src="https://komarev.com/ghpvc/?username=gabriellarocca&label=Profile%20views&color=0e75b6&style=flat" alt="gabriellarocca" />
-	</a>
-	<a href="https://github.com/gabriellarocca">
-		<img src="https://img.shields.io/github/followers/gabriellarocca?label=Followers" alt="gabriellarocca" />
-	</a>
+	<a href="https://github.com/gabriellarocca"><img src="https://komarev.com/ghpvc/?username=gabriellarocca&label=Profile%20views&color=0e75b6&style=flat" alt="gabriellarocca" /></a>
+	<a href="https://github.com/gabriellarocca"><img src="https://img.shields.io/github/followers/gabriellarocca?label=Followers" alt="gabriellarocca" /></a>
 </p>
+
 <br/>
-<p align="center">
-	<a href="https://github.com/gabriellarocca">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
+
+<p align="center"><a href="https://github.com/gabriellarocca"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a></p>
 
 <hr>
 
@@ -46,9 +32,9 @@ Hi, I'm  Gabriel Larocca!
 
 <hr/>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,redux,postgres,typescript,react,php,laravel,mysql,bootstrap,js,html,css)](https://skillicons.dev)
   
